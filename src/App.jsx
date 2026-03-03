@@ -168,7 +168,7 @@ export default function Dashboard() {
               <div style={{ width:38, height:38, borderRadius:10, background:"linear-gradient(135deg,#4A9EFF,#FF7043)", display:"flex", alignItems:"center", justifyContent:"center", fontSize:18, fontWeight:800 }}>P</div>
               <div>
                 <div style={{ fontSize:16, fontWeight:800 }}>Partners Dashboard</div>
-                <div style={{ fontSize:11, color:"#4A5568", fontFamily:"monospace" }}>Direito de Trânsito · 2025</div>
+                <div style={{ fontSize:11, color:"#4A5568", fontFamily:"monospace" }}>Direito de Trânsito · 2026</div>
               </div>
             </div>
             <div style={{ display:"flex", alignItems:"center", gap:12 }}>
