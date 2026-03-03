@@ -165,7 +165,7 @@ export default function Dashboard() {
         <div style={{ borderBottom:"1px solid #161D2B", padding:"0 32px" }}>
           <div style={{ maxWidth:1280, margin:"0 auto", display:"flex", alignItems:"center", justifyContent:"space-between", height:64 }}>
             <div style={{ display:"flex", alignItems:"center", gap:14 }}>
-              <div style={{ width:38, height:38, borderRadius:10, background:"linear-gradient(135deg,#4A9EFF,#FF7043)", display:"flex", alignItems:"center", justifyContent:"center", fontSize:18, fontWeight:800 }}>P</div>
+              <div style={{ width:38, height:38, borderRadius:10, objectFit:"contain" }}><img src="/Logo_Felippe.png" alt="Logo" style={{ width:38, height:38, borderRadius:10, objectFit:"contain" }} /></div>
               <div>
                 <div style={{ fontSize:16, fontWeight:800 }}>Partners Dashboard</div>
                 <div style={{ fontSize:11, color:"#4A5568", fontFamily:"monospace" }}>Direito de Trânsito · 2026</div>
